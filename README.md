@@ -1,9 +1,11 @@
 # ForHeart: Live a long life with Good Heart!
 ***
 ## Website Link
-website link
+https://forheart.herokuapp.com/ (Working)
+<br>
+https://forheart.tech/ (Not Working)
 ## Demo Link
-link
+https://youtu.be/Q6H3ZPgwlvg
 ***
 ### ✨ Inspiration
 We are observing a recent trend of increase in heart attack fatalities with every passing generation. With the consultation of medical experts, we have figured out, that with the increasing workload, stress, and unhealthy lifestyle, their an increase in the upwardness of the curve of heart attack victims. Due to the lack of awareness of the general masses, this trend is not going to reduce in the coming future. We, as a group, did a brainstorming session to figure out what we can do, and have tried our best to come to a solution.
@@ -29,7 +31,7 @@ We have made a tool for the prediction of Heart Attacks using the Machine Learni
 1. Clone repo
 
     ```bash
-    (base) git clone https://github.com/AniruddhA-Omni/ForHeart.git
+    (base) git clone https://github.com/AniruddhA-Omni/forheart2.git
     (base) cd ForHeart
     ```
 2. Install dependent packages
